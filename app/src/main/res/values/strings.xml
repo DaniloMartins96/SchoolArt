@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SchoolArt</string>
+    <string name="editNome">Informe seu nome</string>
+    <string name="editName">Informe seu nome</string>
+    <string name="editTel">Informe seu telefone</string>
+    <string name="editEmail">Informe seu email</string>
+    <string name="editSite">Informe o seu site</string>
+    <string name="editNota">Informe sua nota</string>
+</resources>
